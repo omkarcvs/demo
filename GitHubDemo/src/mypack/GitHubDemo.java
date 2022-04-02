@@ -6,6 +6,7 @@ public class GitHubDemo {
 		// TODO Auto-generated method stubttrt
 		System.out.println("out");
 		System.out.println("Test");
+		System.out.println("Third commit");
 	}
 
 }
