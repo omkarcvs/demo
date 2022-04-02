@@ -7,6 +7,7 @@ public class GitHubDemo {
 		System.out.println("out");
 		System.out.println("Test");
 		System.out.println("Third commit");
+		System.out.println("Fourth commit");
 	}
 
 }
