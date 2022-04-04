@@ -3,7 +3,7 @@ package mypack;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub 
+		System.out.println("Now I am testing it :");
 
 	}
 
